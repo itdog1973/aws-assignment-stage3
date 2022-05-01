@@ -1,0 +1,6 @@
+my_env.list
+.dockerignore
+docker-compose.yaml
+node_modules
+.dockerignore
+.DS_Store
